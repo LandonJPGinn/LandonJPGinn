@@ -72,9 +72,9 @@ While having most work experience on the job programming for private companies, 
 #
 
 ### Socials
-- ![Linkedin](img/icons/LinkedIN.svg)(https://www.linkedin.com/in/landonginn/)
-- ![IG](img/icons/Instagram.svg)(https://www.instagram.com/landon_ginn)
-- ![Youtube](img/icons/Youtube.svg)(https://www.youtube.com/@realizedesign)
-- ![Spotify](img/icons/Spotify.svg)(https://open.spotify.com/artist/1lLFZSFcEJfv60W3irPazK?si=KpXlGhzuTSupH0QBr9M8EQ)
+- ![](img/icons/LinkedIN.svg)(https://www.linkedin.com/in/landonginn/)
+- ![](img/icons/Instagram.svg)(https://www.instagram.com/landon_ginn)
+- ![](img/icons/Youtube.svg)(https://www.youtube.com/@realizedesign)
+- ![](img/icons/Spotify.svg)(https://open.spotify.com/artist/1lLFZSFcEJfv60W3irPazK?si=KpXlGhzuTSupH0QBr9M8EQ)
 
 #
