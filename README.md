@@ -47,9 +47,9 @@ Services:
 
 #### 🎨 Colors
 
-- 60% - ![#141414](https://placehold.co/15x15/141414/141414.png)`#141414` or ![#e6e6e6](https://placehold.co/15x15/e6e6e6/e6e6e6.png)`#e6e6e6`
-- 30% - ![#878e99](https://placehold.co/15x15/878e99/878e99.png)`#878e99`
-- 10% - ![#36494e](https://placehold.co/15x15/36494e/36494e.png)`#36494e`
+- 60% - ![#141414](https://placehold.co/15x15/141414/141414.png) `#141414` or ![#e6e6e6](https://placehold.co/15x15/e6e6e6/e6e6e6.png) `#e6e6e6`
+- 30% - ![#878e99](https://placehold.co/15x15/878e99/878e99.png) `#878e99`
+- 10% - ![#36494e](https://placehold.co/15x15/36494e/36494e.png) `#36494e`
 
 #### 👨‍👩‍👧‍👦 Demographics
 - `3D Animation / Career Advice / Education`
