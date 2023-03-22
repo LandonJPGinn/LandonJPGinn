@@ -20,6 +20,9 @@ Services:
 
 #
 
+### 🎬 [Demo Reel](https://vimeo.com/708136010) <-- vimeo link🔗
+
+
 ### Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ln-blue)](https://www.linkedin.com/in/landonginn/)
 [![IG](https://img.shields.io/badge/Instagram-IG-red)](https://www.instagram.com/landon_ginn) 
