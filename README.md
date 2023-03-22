@@ -32,6 +32,8 @@ Services:
 
 ### 🖥 Latest YouTube Videos
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@realizedesign?sub_confirmation=1)
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How Fellow Artists are Killing Careers Without Even Knowing It ( Stop Selling Yourself Short!)](https://ytcards.demolab.com/?id=C9QRPPrUgQQ&title=How+Fellow+Artists+are+Killing+Careers+Without+Even+Knowing+It+%28+Stop+Selling+Yourself+Short%21%29&lang=en&timestamp=1679295606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=322 "How Fellow Artists are Killing Careers Without Even Knowing It ( Stop Selling Yourself Short!)")](https://www.youtube.com/watch?v=C9QRPPrUgQQ)
 [![How to Learn from Tutorials WITHOUT the Mistakes! (And HOW To Become the MASTER)](https://ytcards.demolab.com/?id=gwZIg4iuG3M&title=How+to+Learn+from+Tutorials+WITHOUT+the+Mistakes%21+%28And+HOW+To+Become+the+MASTER%29&lang=en&timestamp=1678716023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=150 "How to Learn from Tutorials WITHOUT the Mistakes! (And HOW To Become the MASTER)")](https://www.youtube.com/watch?v=gwZIg4iuG3M)
@@ -40,8 +42,6 @@ Services:
 [![3D artists CREATE their OWN Opportunities](https://ytcards.demolab.com/?id=Su0KBa4iMyQ&title=3D+artists+CREATE+their+OWN+Opportunities&lang=en&timestamp=1677873614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=18 "3D artists CREATE their OWN Opportunities")](https://www.youtube.com/watch?v=Su0KBa4iMyQ)
 [![Unlock Success by Choosing the Perfect 3D College ( Its all about YOUR FUTURE )](https://ytcards.demolab.com/?id=D804GZK1tBo&title=Unlock+Success+by+Choosing+the+Perfect+3D+College+%28+Its+all+about+YOUR+FUTURE+%29&lang=en&timestamp=1677510007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=233 "Unlock Success by Choosing the Perfect 3D College ( Its all about YOUR FUTURE )")](https://www.youtube.com/watch?v=D804GZK1tBo)
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@realizedesign?sub_confirmation=1)
 
 #
 
