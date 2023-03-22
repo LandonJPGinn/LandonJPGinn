@@ -58,7 +58,7 @@ Services:
 - 30% - ![#878e99](https://placehold.co/15x15/878e99/878e99.png) `#878e99`
 - 10% - ![#36494e](https://placehold.co/15x15/36494e/36494e.png) `#36494e`
 
-#### 👨‍👩‍👧‍👦 Demographics
+#### 👨‍👩‍👧‍👦 Youtube Demographics
 - `3D Animation / Career Advice / Education`
 - `Ages: 16 - 28`
 - `Male/Female:  80/20`
