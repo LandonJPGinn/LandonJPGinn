@@ -18,7 +18,14 @@ Services:
 - Python2 to Python3 migration tactics. 
 - Working on a Content Creation Pipeline Suite. (currently private)
 
-[youtube]: https://youtube.com/@realizedesign
+#
+
+### Socials
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ln-blue)](https://www.linkedin.com/in/landonginn/)
+[![IG](https://img.shields.io/badge/Instagram-IG-red)](https://www.instagram.com/landon_ginn) 
+[![Youtube](https://img.shields.io/badge/Youtube-Yt-red)](https://www.youtube.com/@realizedesign)
+[![Spotify](https://img.shields.io/badge/Spotify-Sp-green)](https://open.spotify.com/artist/1lLFZSFcEJfv60W3irPazK?si=KpXlGhzuTSupH0QBr9M8EQ)
+
 
 
 #
@@ -77,10 +84,3 @@ While having most work experience on the job programming for private companies, 
 
 #
 
-### Socials
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ln-blue)](https://www.linkedin.com/in/landonginn/)
-[![IG](https://img.shields.io/badge/Instagram-IG-red)](https://www.instagram.com/landon_ginn) 
-[![Youtube](https://img.shields.io/badge/Youtube-Yt-red)](https://www.youtube.com/@realizedesign)
-[![Spotify](https://img.shields.io/badge/Spotify-Sp-green)](https://open.spotify.com/artist/1lLFZSFcEJfv60W3irPazK?si=KpXlGhzuTSupH0QBr9M8EQ)
-
-#
