@@ -3,7 +3,11 @@
 Landon is a Technical Director in the 3D Industry with over 20 Years experience as both an artist and a developer. Some projects Landon has had the opportunities to contribute towards include:
   
 Projects:
-- 🕵️‍ current: **Super Secret Walt Disney Animation Stuff**
+- 📚 Published Author: [An Absurd Perspective](https://amzn.to/3QHD60C)
+- 🕵️‍ Super Secret Walt Disney Animation Pipeline Stuff
+- 🛶 Disney: Moana 2
+- 💫 Disney: Wish
+- 🧭 Disney: Strange World
 - 🐢 Teenage Mutant Ninja Turtles 3D
 - 🌠 Star Trek Prodigy
 - ⚔ Fire Emblem Fates
