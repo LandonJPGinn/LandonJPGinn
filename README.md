@@ -1,7 +1,29 @@
-### Hey, Landon Here.. 👋
+###
 
-Landon is a Technical Director in the 3D Industry with over 20 Years experience as both an artist and a developer. Some projects Landon has had the opportunities to contribute towards include:
-  
+# 🖥 - Landon JP Ginn
+
+Landon is a pipeline expert for all digital productions under the sun. With experience at commercial houses, feature animation, live action, video games, and event book authorship and music production, Landon has had an immensely colorful work history over more than a decade. His primary language is Python with experience working in other languages for web and core dcc products. 
+
+<details>
+<summary>Landon's Career Journey</summary>
+<br>
+
+Landon got his start as an artist looking to pursue video games. Self teaching himself 3D along the way before attending Full Sail University. There he received several advanced achievement awards, valedictorian, and was hired for the finals department.
+
+From there, it was time for Landon to pursue his career with a newly earned degree. Starting off with freelancing animation, live action, and commercial productions, he then got hired into an architectural visualization - commercial house. From there, Landon took to the skies and across the ocean to work on Nintendo cutscenes for games like Fire Emblem at a Tokyo based animation studio.
+After a year, he got a gig out in Los Angeles where his opportunists took off.
+
+Landon worked for Nickelodeon for several years, transitioning from artist to technical director in an about a year. Landon then went on to develop core tools and systems for Nickelodeon’s CG pipeline for shows like Rugrats, SpongeBob, Star Trek: Prodigy and more. 
+
+It was then that Landon was offered a role at Walt Disney Animation Studios where he was hired onto the tools and workflow team that develops pipeline integrations for artists. Currently, Landon is on the core pipeline team and —REDACTED—
+
+The learning and sharing never ends. Landon spends time for leisure working on video games in unreal engine, building standalone scripts for e-commerce, content creation, music, and websites.
+
+Reach out!
+</details>
+
+Some projects Landon has had the opportunities to contribute towards include:
+
 Projects:
 - 📚 Published Author: [An Absurd Perspective](https://amzn.to/3QHD60C)
 - 🕵️‍ Super Secret Walt Disney Animation Pipeline Stuff
@@ -17,12 +39,6 @@ Projects:
 - 🎄 Nickelodeon: Albert
 - 🍀 Nickelodeon: Lucky
 
-Services:
-- Consultation on pipeline workflows for CG/3D Production.
-- Python2 to Python3 migration tactics. 
-- Working on a Content Creation Pipeline Suite. (currently private)
-
-#
 
 ### 🎬 [Demo Reel](https://vimeo.com/708136010) <-- vimeo link🔗
 
@@ -40,6 +56,8 @@ Services:
 ### 🖥 Latest YouTube Videos
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@realizedesign?sub_confirmation=1)
+
+<a href="https://www.buymeacoffee.com/landonjpginn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How to pip install OPENAI for MAYA (And any other python package)](https://ytcards.demolab.com/?id=z-qVo_bLOss&title=How+to+pip+install+OPENAI+for+MAYA+%28And+any+other+python+package%29&lang=en&timestamp=1682924432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "How to pip install OPENAI for MAYA (And any other python package)")](https://www.youtube.com/watch?v=z-qVo_bLOss)
