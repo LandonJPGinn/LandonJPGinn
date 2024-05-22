@@ -58,7 +58,6 @@ Projects:
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@realizedesign?sub_confirmation=1)
 
-<a href="https://www.buymeacoffee.com/landonjpginn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How to pip install OPENAI for MAYA (And any other python package)](https://ytcards.demolab.com/?id=z-qVo_bLOss&title=How+to+pip+install+OPENAI+for+MAYA+%28And+any+other+python+package%29&lang=en&timestamp=1682924432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "How to pip install OPENAI for MAYA (And any other python package)")](https://www.youtube.com/watch?v=z-qVo_bLOss)
@@ -92,20 +91,7 @@ Projects:
 - `Location: US/Canada`
 
 
-#### 🧮 Stats
+###
 
-While having most work experience on the job programming for private companies, Landon has recently taken to having a public github.
+<a href="https://www.buymeacoffee.com/landonjpginn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
-![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonjpginn&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=landonjpginn&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LandonJPGinn/LandonJPGinn/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LandonJPGinn/LandonJPGinn/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/LandonJPGinn/LandonJPGinn/output-3d-contrib/day.svg" />
-	</picture>
-</p>
