@@ -21,6 +21,8 @@ It was then that Landon was offered a role at Walt Disney Animation Studios wher
 The learning and sharing never ends. Landon spends time for leisure working on video games in unreal engine, building standalone scripts for e-commerce, content creation, music, and websites.
 
 Reach out!
+
+![Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=landonginn)
 </details>
 
 Some projects Landon has had the opportunities to contribute towards include:
