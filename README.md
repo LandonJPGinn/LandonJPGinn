@@ -3,6 +3,9 @@
 # Landon JP Ginn 🖥
 <img src="flow_generated.svg" alt="flowing graphic" width="400" height="40">
 
+## Looking for a demo of my code? --> [Check Out My Sample Code Snippets](https://github.com/LandonJPGinn/resume_code_examples/blob/main/code/demo.py)
+
+
 Landon is a pipeline expert for all digital productions under the sun. With experience at commercial houses, feature animation, live action, video games, and event book authorship and music production, Landon has had an immensely colorful work history over more than a decade. His primary language is Python with experience working in other languages for web and core dcc products. 
 
 <details>
